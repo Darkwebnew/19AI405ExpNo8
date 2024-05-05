@@ -1,5 +1,5 @@
 <h1>ExpNo 8 : Solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python</h1> 
-<h2>Date: 24-05-2024</h2>
+<h2>Date: 24-04-2024</h2>
 <h3>Name: Sriram.V</h3>
 <h3>Register Number: 212222103002</h3>
 <H3>Aim:</H3>
